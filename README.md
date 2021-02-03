@@ -4,4 +4,6 @@
 GET /health/
 RESPONSE: {"status": "OK"}
 
+http://arch.homework/health
+
 docker image : docker pull 7301878/web-app
