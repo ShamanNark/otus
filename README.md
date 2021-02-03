@@ -3,3 +3,5 @@
 2) имеет http-метод
 GET /health/
 RESPONSE: {"status": "OK"}
+
+docker image : docker pull 7301878/web-app
